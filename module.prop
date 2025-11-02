@@ -1,0 +1,7 @@
+id=yt-rv
+name=YouTube ReVanced
+version=v20.14.43 (patches: 5.45.0)
+versionCode=116
+author=NoName-exe
+description=YouTube ReVanced Magisk Module
+updateJson=https://raw.githubusercontent.com/NoName-exe/revanced/update/youtube-update.json
